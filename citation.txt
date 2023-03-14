@@ -1,4 +1,4 @@
-@article{REPO-190,
+@article{REPO-189,
     author = "Guo, Jie and Lai, Shuichang and Tao, Chengzhi and Cai, Yuelong and Wang, Lei and Guo, Yanwen and Yan, Ling-Qi",
     journal = "ACM Trans. Graph.",
     number = "4",
