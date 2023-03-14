@@ -1,0 +1,8 @@
+@article{REPO-190,
+    author = "Guo, Jie and Lai, Shuichang and Tao, Chengzhi and Cai, Yuelong and Wang, Lei and Guo, Yanwen and Yan, Ling-Qi",
+    journal = "ACM Trans. Graph.",
+    number = "4",
+    title = "{Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition}",
+    volume = "40",
+    year = "2021"
+}
